@@ -1,6 +1,5 @@
 clc; close all;
 
-
 % Charger ou générer deux images I1 et I2
 I1 = imread("football\gray\football001.ras");
 I2 = imread("football\gray\football002.ras");
